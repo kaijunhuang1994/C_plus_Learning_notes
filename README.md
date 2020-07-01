@@ -12,4 +12,6 @@
   - [notes编程规范](./notes/ch01_C++编程规范/C++编程规范整理.md)
   - [notes命名规范](./notes/ch01_C++编程规范/Google_C++命名规范.md)
 - 第2章：Makefile编写
-  -  [notes](./notes/ch02_Makefile编写/C++Makefile.md)	[src](./src/ch02)
+  -  [notes](./notes/ch02_Makefile编写/C++Makefile.md)
+- 第3章：C++简介
+  -  [notes](./notes/ch03_C++简介/C++简介.md)
