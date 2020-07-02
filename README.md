@@ -6,15 +6,11 @@
 
 ## 目录
 
-- 第0章：Markdown语法笔记 
-  - [notes](./notes/ch00_Markdown语法笔记/Markdown学习笔记.md)
+- 第0章：Markdown语法笔记[notes](./notes/ch00_Markdown语法笔记/Markdown学习笔记.md)
 - 第1章：C++编程规范 
   - [notes编程规范](./notes/ch01_C++编程规范/C++编程规范整理.md)
   - [notes命名规范](./notes/ch01_C++编程规范/Google_C++命名规范.md)
-- 第2章：Makefile编写
-  -  [notes](./notes/ch02_Makefile编写/C++Makefile.md)
-- 第3章：C++简介
-  -  [notes](./notes/ch03_C++简介/C++简介.md)
-- 第4章：C++数据类型
-  -  [notes](./notes/ch04_C++数据类型/C++数据类型.md)
-
+- 第2章：Makefile编写[notes](./notes/ch02_Makefile编写/C++Makefile.md)
+- 第3章：C++简介[notes](./notes/ch03_C++简介/C++简介.md)
+- 第4章：C++数据类型[notes](./notes/ch04_C++数据类型/C++数据类型.md)
+- 第5章：C++枚举类型[notes](./notes/ch05_C++枚举类型/C++枚举类型.md)
