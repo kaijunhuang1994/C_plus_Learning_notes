@@ -1,6 +1,6 @@
 # C++学习笔记
 
-> 本仓库用于存放自己学习C++的一些笔记和源码，学习内容来源于网上的各种资料以及书籍。
+> 本仓库用于存放自己学习C++的一些笔记和源码，学习内容来源于网上的各种资料（[菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)）以及书籍。
 
 
 
@@ -15,3 +15,6 @@
   -  [notes](./notes/ch02_Makefile编写/C++Makefile.md)
 - 第3章：C++简介
   -  [notes](./notes/ch03_C++简介/C++简介.md)
+- 第4章：C++数据类型
+  -  [notes](./notes/ch04_C++数据类型/C++数据类型.md)
+
