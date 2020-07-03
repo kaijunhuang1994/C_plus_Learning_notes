@@ -14,3 +14,4 @@
 - 第3章：C++简介[notes](./notes/ch03_C++简介/C++简介.md)
 - 第4章：C++数据类型[notes](./notes/ch04_C++数据类型/C++数据类型.md)
 - 第5章：C++枚举类型[notes](./notes/ch05_C++枚举类型/C++枚举类型.md)
+- 第6章：C++变量与常量[notes](./notes/ch06_C++变量与常量/C++变量与常量.md)
